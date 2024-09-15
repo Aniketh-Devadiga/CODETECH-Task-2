@@ -16,7 +16,7 @@ Project: Predictive Modeling With Linear Regression On Salary Dataset
 
 Objective
 
-The goal of this analysis is to predict salary based on years of experience using a linear regression model. We first explore the data, then split it into training and testing sets, fit the model, and evaluate its accuracy.
+The goal of this analysis is to predict salary based on years of experience using a linear regression model. We first explore the data then split it into training and testing sets, fit the model, and evaluate its accuracy.
 
 Key Activities
 
