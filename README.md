@@ -8,7 +8,7 @@ Domain: Data Analytics
 
 Duration: August To September 2024
 
-Mentor SRAVANI GOUNI
+Mentor: SRAVANI GOUNI
 
 Overview of the Project
 
